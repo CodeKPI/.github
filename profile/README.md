@@ -17,10 +17,10 @@ Welcome to **Code KPI** – the official programming lab of **Khulna Polytechnic
 ## 🚀 Get Involved
 
 Whether you're a **student**, **teacher**, or a **tech enthusiast**, you can:  
-✅ Contribute to our projects.  
-✅ Share knowledge and resources.
-✅ Participate in coding challenges.  
-✅ Collaborate on research and innovation.
+- ✅ Contribute to our projects.  
+- ✅ Share knowledge and resources.
+- ✅ Participate in coding challenges.  
+- ✅ Collaborate on research and innovation.
 
 ## 📢 Connect with Us
 
