@@ -24,7 +24,7 @@ Whether you're a **student**, **teacher**, or a **tech enthusiast**, you can:
 
 ## 📢 Connect with Us
 
-- 📧 **Email**: [sayad@codekpi.club](mailto:sayad@codekpi.club)
+- 📧 **Email**: [support@codekpi.club](mailto:support@codekpi.club)
 - 📱 **Facebook**: [Facebook/CodeKPI](https://facebook.com/CodeKPI)
 - 📌 **Join Us**: Reach out to a team member to collaborate!
 
